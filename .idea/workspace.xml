@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="992e6706-17d2-498d-bd78-463dc5a3bd29" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pikadu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jBijIE3CqCNLT950GefiX4oPoi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="992e6706-17d2-498d-bd78-463dc5a3bd29" name="Default Changelist" comment="" />
+      <created>1603284019303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603284019303</updated>
+      <workItem from="1603284025907" duration="9895000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="927" height="508" key="#com.intellij.structuralsearch.plugin.ui.StructuralReplaceDialog" timestamp="1603284475917">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="927" height="508" key="#com.intellij.structuralsearch.plugin.ui.StructuralReplaceDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1603284475917" />
+    <state x="0" y="542" key="#com.intellij.structuralsearch.plugin.ui.StructuralSearchDialog" timestamp="1603284475915">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="0" y="542" key="#com.intellij.structuralsearch.plugin.ui.StructuralSearchDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1603284475915" />
+    <state x="541" y="262" width="598" height="548" key="find.popup" timestamp="1603284541273">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="541" y="262" width="598" height="548" key="find.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1603284541273" />
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1603284526493">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1603284526493" />
+  </component>
+</project>
