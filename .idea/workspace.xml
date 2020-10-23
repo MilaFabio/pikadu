@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="992e6706-17d2-498d-bd78-463dc5a3bd29" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pikadu.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Semibold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/SFProDisplay-Semibold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/promo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/icons.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,18 +25,28 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jBijIE3CqCNLT950GefiX4oPoi" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/css/fonts" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -45,13 +59,28 @@
       <option name="presentableId" value="Default" />
       <updated>1603284019303</updated>
       <workItem from="1603284025907" duration="10487000" />
+      <workItem from="1603371427486" duration="4410000" />
+      <workItem from="1603394330563" duration="1242000" />
+      <workItem from="1603401244728" duration="1130000" />
+      <workItem from="1603402756135" duration="9881000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="564" y="208" key="#CSS" timestamp="1603405879888">
+      <screen x="45" y="23" width="1635" height="1027" />
+    </state>
+    <state x="564" y="208" key="#CSS/45.23.1635.1027@45.23.1635.1027" timestamp="1603405879888" />
+    <state x="1007" y="336" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603413515764">
+      <screen x="47" y="23" width="1633" height="1027" />
+    </state>
+    <state x="1007" y="336" key="#com.intellij.fileTypes.FileTypeChooser/47.23.1633.1027@47.23.1633.1027" timestamp="1603413515764" />
     <state width="927" height="508" key="#com.intellij.structuralsearch.plugin.ui.StructuralReplaceDialog" timestamp="1603284475917">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
@@ -60,13 +89,28 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="0" y="542" key="#com.intellij.structuralsearch.plugin.ui.StructuralSearchDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1603284475915" />
+    <state x="422" y="123" width="1258" height="827" key="DiffContextDialog" timestamp="1603405931353">
+      <screen x="45" y="23" width="1635" height="1027" />
+    </state>
+    <state x="422" y="123" width="1258" height="827" key="DiffContextDialog/45.23.1635.1027@45.23.1635.1027" timestamp="1603405931353" />
+    <state x="347" y="278" key="IDE.errors.dialog" timestamp="1603402825595">
+      <screen x="44" y="23" width="1636" height="1027" />
+    </state>
+    <state x="347" y="278" key="IDE.errors.dialog/44.23.1636.1027@44.23.1636.1027" timestamp="1603402825595" />
+    <state x="137" y="185" key="SettingsEditor" timestamp="1603405670096">
+      <screen x="45" y="23" width="1635" height="1027" />
+    </state>
+    <state x="238" y="304" key="SettingsEditor/43.23.1637.1027@43.23.1637.1027" timestamp="1603402651143" />
+    <state x="136" y="185" key="SettingsEditor/44.23.1636.1027@44.23.1636.1027" timestamp="1603403180408" />
+    <state x="137" y="185" key="SettingsEditor/45.23.1635.1027@45.23.1635.1027" timestamp="1603405670096" />
     <state x="541" y="262" width="598" height="548" key="find.popup" timestamp="1603284541273">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="541" y="262" width="598" height="548" key="find.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1603284541273" />
-    <state x="453" y="248" key="run.anything.popup" timestamp="1603310296967">
-      <screen x="47" y="23" width="1633" height="1027" />
+    <state x="451" y="248" key="run.anything.popup" timestamp="1603402789325">
+      <screen x="44" y="23" width="1636" height="1027" />
     </state>
+    <state x="451" y="248" key="run.anything.popup/44.23.1636.1027@44.23.1636.1027" timestamp="1603402789325" />
     <state x="453" y="248" key="run.anything.popup/47.23.1633.1027@47.23.1633.1027" timestamp="1603310296967" />
     <state x="505" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1603284526493">
       <screen x="0" y="23" width="1680" height="1027" />
